@@ -1,3 +1,14 @@
+GET /u861871424/ HTTP/2
+Host: tinyurl2.ru
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://tinyurl2.ru/u861871424/
+Upgrade-Insecure-Requests: 1
+Te: trailers
+
+
 HTTP/2 200 OK
 Date: Thu, 31 Mar 2022 20:02:33 GMT
 Content-Type: text/html
